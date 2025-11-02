@@ -1,0 +1,12 @@
+Other Habitat:
+01; Jay; birth date 2023-06-15; brown color; male; 300 pounds; from Yellowstone, USA; arrived 2025-11-01
+
+Other Habitat:
+01; George; birth date 2021-03-15; tan color; female; 70 pounds; from Friguia Park, Tunisia; arrived 2025-11-01
+
+Other Habitat:
+01; Michael; birth date 2022-12-15; golden color; male; 190 pounds; from Serengeti, Tanzania; arrived 2025-11-01
+
+Other Habitat:
+01; Sharon; birth date 2020-09-15; orange color; female; 220 pounds; from Ranthambore, India; arrived 2025-11-01
+
