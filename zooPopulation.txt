@@ -1,12 +1,38 @@
-Other Habitat:
-01; Jay; birth date 2023-06-15; brown color; male; 300 pounds; from Yellowstone, USA; arrived 2025-11-01
+Zoo Population Report
 
-Other Habitat:
-01; George; birth date 2021-03-15; tan color; female; 70 pounds; from Friguia Park, Tunisia; arrived 2025-11-01
+Bear, Habitat:
+01; Unnamed; birth date 2018-03-15; brown color; male; 320 pounds; from Alaska Zoo, Alaska; arrived 2025-11-03
 
-Other Habitat:
-01; Michael; birth date 2022-12-15; golden color; male; 190 pounds; from Serengeti, Tanzania; arrived 2025-11-01
+02; Unnamed; birth date 2000-03-15; black color; female; 425 pounds; from Woodland park Zoo, Washington ; arrived 2025-11-03
 
-Other Habitat:
-01; Sharon; birth date 2020-09-15; orange color; female; 220 pounds; from Ranthambore, India; arrived 2025-11-01
+03; Unnamed; birth date 2021-09-15; black color; female; 355 pounds; from Woodland park Zoo, Washington ; arrived 2025-11-03
+
+04; Unnamed; birth date 2021-03-15; brown color; male; 405 pounds; from Alaska Zoo, Alaska; arrived 2025-11-03
+
+Hyena, Habitat:
+01; George; birth date 2021-03-15; tan color; female; 70 pounds; from Friguia Park, Tunisia; arrived 2025-11-03
+
+02; Michael; birth date 2013-09-15; brown color; male; 150 pounds; from Friguia Park, Tunisia; arrived 2025-11-03
+
+03; Sharon; birth date 2021-03-15; black color; male; 120 pounds; from Friguia Park, Tunisia; arrived 2025-11-03
+
+04; Jay; birth date 2017-06-15; striped color; female; 105 pounds; from Friguia Park, Tunisia; arrived 2025-11-03
+
+Lion, Habitat:
+01; Unnamed; birth date 2019-03-15; tan color; female; 300 pounds; from Zanzibar, Tanzania; arrived 2025-11-03
+
+02; Unnamed; birth date 2013-12-15; tan color; female; 375 pounds; from KopeLion, Tanzania; arrived 2025-11-03
+
+03; Unnamed; birth date 2003-09-15; golden color; male; 450 pounds; from Zanzibar, Tanzania; arrived 2025-11-03
+
+04; Unnamed; birth date 2021-03-15; brown color; female; 275 pounds; from KopeLion, Tanzania; arrived 2025-11-03
+
+Tiger, Habitat:
+01; Unnamed; birth date 2023-03-15; stripes color; male; 270 pounds; from Dhaka, Bangladesh; arrived 2025-11-03
+
+02; Unnamed; birth date 2021-03-15; stripes color; female; 400 pounds; from Dhaka, Bangladesh; arrived 2025-11-03
+
+03; Unnamed; birth date 2007-09-15; tan color; male; 300 pounds; from Bardia, Nepal; arrived 2025-11-03
+
+04; Unnamed; birth date 2022-03-15; stripes color; female; 285 pounds; from Bardia, Nepal; arrived 2025-11-03
 
